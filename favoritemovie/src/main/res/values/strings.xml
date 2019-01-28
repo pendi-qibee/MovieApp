@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">favoritemovie</string>
+    <string name="rating_format">Rating : %s / %d</string>
+    <string name="text_tryagain">Try Again..</string>
+    <string name="detail_title">Detail</string>
+    <string name="searching_title">Searching</string>
+</resources>

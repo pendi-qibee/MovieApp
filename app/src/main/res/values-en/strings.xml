@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="tab_nowplaying">Now Playing</string>
+    <string name="tab_upcoming">Upcoming</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating_format">Rating : %s / %d</string>
+    <string name="failed_loaddata_message">Failed to Load data</string>
+    <string name="text_search">Search</string>
+    <string name="keyword_hint">Type keyword..</string>
+    <string name="text_tryagain">Try Again..</string>
+    <string name="searching_title">Searching</string>
+    <string name="detail_title">Detail Movie</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="appwidget_text">WIDGET MOVIE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="release_notificatian_ready">release notification is ready</string>
+    <string name="openapp_message">Don\'t worry be happy, more movies added</string>
+    <string name="release_notification_title">Movie Release Today</string>
+    <string name="release_notification_text">check some movie released today :</string>
+
+</resources>

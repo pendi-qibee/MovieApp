@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="tab_nowplaying">Sedang Tayang</string>
+    <string name="tab_upcoming">Segera Tayang</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="rating_format">Peringkat : %s / %d</string>
+    <string name="failed_loaddata_message">Gagal memuat data</string>
+    <string name="text_search">Cari</string>
+    <string name="keyword_hint">masukkan kata kunci..</string>
+    <string name="text_tryagain">Coba Lagi..</string>
+    <string name="searching_title">Pencarian</string>
+    <string name="detail_title">Detail Film</string>
+    <string name="tab_favorite">Favorit</string>
+    <string name="appwidget_text">WIDGET FILM</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="release_notificatian_ready">Notifikasi untuk release terbaru sudah siap</string>
+    <string name="openapp_message">jangan kuatir, jangan lupa bahagia. lebih banyak film ditambahkan</string>
+    <string name="release_notification_title">Film yang dirilis hari ini</string>
+    <string name="release_notification_text">check it out.. ini film yang dirilis :</string>
+
+</resources>
